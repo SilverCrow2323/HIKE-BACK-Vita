@@ -25,3 +25,7 @@ Here's the quickest way to set the game on your Vita:
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
 
 - You may need to Overclock you device to have a slightly better experience. In certain part the text may be laggy.
+
+## Changelog v.1.01
+
+- Fixed previous icon
