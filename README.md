@@ -23,3 +23,5 @@ Here's the quickest way to set the game on your Vita:
 7. Last step: copy the `game` folder from the original PC game to `ux0:/app/RENPYHIKE`
 
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
+
+- You may need to Overclock you device to have a slightly better experience. In certain part the text may be laggy.
