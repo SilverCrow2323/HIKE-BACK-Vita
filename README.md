@@ -20,7 +20,7 @@ Here's the quickest way to set the game on your Vita:
 4. Open `VitaShell`, slect the folder (without opening it) and press TRIANGLE
 5. Scroll down, select `More` and then `Install folder`
 6. Confirm the next 2 windows and....done (in seconds)!
-7. Last step: copy the `game` folder from the original PC game to `ux0:/app/RENPYHIKE`
+7. Last step: copy the `game` folder from the original PC game to `ux0:/app/RENPYHIKE/`
 
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
 
