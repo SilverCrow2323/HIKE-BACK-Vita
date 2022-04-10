@@ -26,6 +26,9 @@ Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/re
 
 - You may need to Overclock you device to have a slightly better experience. In certain part the text may be laggy.
 
-## Changelog v.1.01
+## Changelog v.1.10
+- Removed unnecessary files
+- Minor fixes
 
+## Changelog v.1.01
 - Fixed previous icon
