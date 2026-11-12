@@ -32,3 +32,7 @@ Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/re
 
 ## Changelog v.1.01
 - Fixed previous icon
+
+## 📚 Practical Wiki
+
+The [GitHub Wiki](https://github.com/SilverCrow2323/HIKE-BACK-Vita/wiki) covers installation, the expected `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); maintainers can publish with `sh tools/publish_wiki.sh`.
