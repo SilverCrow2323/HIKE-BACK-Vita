@@ -14,7 +14,7 @@ _Original game_: https://clowndream.itch.io/hikeback (You can download the game 
 The VPK install may be really slow.
 
 Here's the quickest way to set the game on your Vita:
-1. Downlaod the VPK on your PC/Device
+1. Download the VPK on your PC/Device
 2. Extract it like a zip/rar file on a `new folder`
 3. Transfer the folder to your Vita
 4. Open `VitaShell`, select the folder (without opening it) and press TRIANGLE
@@ -33,6 +33,9 @@ Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/re
 ## Changelog v.1.01
 - Fixed previous icon
 
-## 📚 Practical Wiki
 
-The [GitHub Wiki](https://github.com/SilverCrow2323/HIKE-BACK-Vita/wiki) covers installation, the expected `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); maintainers can publish with `sh tools/publish_wiki.sh`.
+## Central Ren'Py Vita catalogue
+
+The shared catalogue, compatibility notes and installation/testing documentation are maintained in the [Ren'Py Vita Hub](https://silvercrow2323.github.io/renpy-psvita-ports/). See the [title sheet](https://github.com/SilverCrow2323/renpy-psvita-ports/blob/main/docs/_games/hike-back.md) and [community porting guide](https://github.com/SilverCrow2323/renpy-psvita-ports/blob/main/docs/PORTING-GUIDES.md).
+
+If the public Pages site is not yet enabled, use the [versioned documentation source](https://github.com/SilverCrow2323/renpy-psvita-ports/tree/main/docs).
