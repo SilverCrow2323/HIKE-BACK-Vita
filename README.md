@@ -11,10 +11,10 @@ HIKEBACK is a short visual novel about trust, self-sabotage, and never-ending cy
 ## How to Install
 _Original game_: https://clowndream.itch.io/hikeback (You can download the game for free or decide to support the author)
 
-The VPK install may be really slow.
+VPK installation may be slow on some Vita storage setups.
 
 Here's the quickest way to set the game on your Vita:
-1. Downlaod the VPK on your PC/Device
+1. Download the VPK on your PC/Device
 2. Extract it like a zip/rar file on a `new folder`
 3. Transfer the folder to your Vita
 4. Open `VitaShell`, select the folder (without opening it) and press TRIANGLE
@@ -33,6 +33,6 @@ Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/re
 ## Changelog v.1.01
 - Fixed previous icon
 
-## 📚 Practical Wiki
+## Central documentation
 
-The [GitHub Wiki](https://github.com/SilverCrow2323/HIKE-BACK-Vita/wiki) covers installation, the expected `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); maintainers can publish with `sh tools/publish_wiki.sh`.
+The maintained installation guide, source notes and troubleshooting pages are now centralized in the [Ren'Py PSVita Ports documentation](https://github.com/SilverCrow2323/renpy-psvita-ports/tree/main/docs/ports/hike-back). This repository remains the port source and release location. Report port-specific build issues through this repository's Issues tab.

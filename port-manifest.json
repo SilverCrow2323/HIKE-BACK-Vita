@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "port_id": "hike-back",
+  "title": "Hike Back",
+  "repository": "https://github.com/SilverCrow2323/HIKE-BACK-Vita",
+  "platform": "psvita",
+  "engine": "renpy",
+  "status": "released",
+  "original_game_url": "https://clowndream.itch.io/hikeback",
+  "docs_path": "docs/ports/hike-back/README.md",
+  "notes": "VPK installation may be slow on some Vita storage setups.",
+  "title_id": "RENPYHIKE",
+  "game_data_path": "ux0:/app/RENPYHIKE/"
+}
